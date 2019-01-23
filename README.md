@@ -1,2 +1,3 @@
 # MtnDo
-Pulling some data from Mountain Project
+Start with Mountain Project Extract
+Build models with mtn project 2ngram
